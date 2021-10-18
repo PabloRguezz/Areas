@@ -1,6 +1,6 @@
 # Áreas de figuras geométricas 
 ## Indice
-- **[1. Seleccionar tipo](seleccionar)**
+- **[1. Seleccionar tipo](#seleccionar)**
 - **[2. Fórmula](#fórmula)**
 - **[3. Parámetros](#parámetros)**
 - **[4. Código](#código)**
